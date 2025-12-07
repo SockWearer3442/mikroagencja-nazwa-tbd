@@ -1,0 +1,101 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Parcel cache
+.parcel-cache/
+
+# Turbo repo cache
+.turbo/
+
+# Next.js build output
+.next/
+out/
+dist/
+
+# Vercel build output
+.vercel/
+
+# Coverage directories
+coverage/
+.nyc_output/
+
+# Production
+build/
+
+# Misc caches
+.sass-cache/
+.cache/
+.pnp.*
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.production.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.example
+
+# IDEs and editors
+.vscode/
+*.code-workspace
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Typescript build info
+*.tsbuildinfo
+
+# Temp files
+*.tmp
+*.temp
+
+# Yarn v2+ (Berry)
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.cjs
+.pnp.loader.mjs
+
+# Storybook
+storybook-static/
